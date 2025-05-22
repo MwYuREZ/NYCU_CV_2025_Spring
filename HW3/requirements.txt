@@ -1,0 +1,10 @@
+numpy
+pillow
+tifffile
+scikit-image
+torch
+torchvision
+matplotlib
+scikit-learn
+tqdm
+pycocotools
