@@ -1,0 +1,9 @@
+numpy  
+tqdm  
+torch   
+torchvision  
+lightning  
+einops  
+scikit-image  
+kornia  
+pillow  
