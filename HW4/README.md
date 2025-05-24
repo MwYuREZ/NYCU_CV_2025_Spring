@@ -71,11 +71,12 @@ Data & Project Structure
 #### Execution
 Train:  
 ```sh
-python train.py
+python train.py  --data_root data --epochs {epochs} --batch 1
+## The weight will be stored in /ckpt.
 ```
 Test:
 ```sh
-python infer.py  
+python infer.py  --data_root data --ckpt {the path of ckpt}
 ```
 
 ## Performance Snapshot  
