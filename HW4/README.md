@@ -79,6 +79,10 @@ Test:
 python infer.py  --data_root data --ckpt {the path of ckpt}
 ```
 
-## Performance Snapshot  
+## Performance Snapshot   
+![image](https://github.com/user-attachments/assets/93ca493b-8d08-4493-84be-61912f9c521d)  
+![image](https://github.com/user-attachments/assets/b2dd054d-def3-4d0b-af20-54bd05ada604)
+
+
 
 
